@@ -16,6 +16,8 @@ First implement a single channel party chat server and UI with no auth
 
 ## Phase 2
 
+Add user registration and authentication and centralized chat history. ensure server can scale
+
 * users must register and authenticate to chat
 * registered users must have unique usernames
 * the server supports storing and retrieving message history
